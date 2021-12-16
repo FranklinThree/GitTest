@@ -3,5 +3,5 @@ package GitTest
 import "fmt"
 
 func main() {
-	fmt.Println("hello,This is Frank0Three")
+	fmt.Println("Hello,this is FranklinThree")
 }
